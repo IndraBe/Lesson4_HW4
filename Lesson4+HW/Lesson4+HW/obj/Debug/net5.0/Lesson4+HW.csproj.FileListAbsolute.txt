@@ -1,0 +1,16 @@
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\Lesson4+HW.exe
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\Lesson4+HW.deps.json
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\Lesson4+HW.runtimeconfig.json
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\Lesson4+HW.runtimeconfig.dev.json
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\Lesson4+HW.dll
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\ref\Lesson4+HW.dll
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\bin\Debug\net5.0\Lesson4+HW.pdb
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.csproj.AssemblyReference.cache
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.AssemblyInfoInputs.cache
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.AssemblyInfo.cs
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.csproj.CoreCompileInputs.cache
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.dll
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\ref\Lesson4+HW.dll
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.pdb
+C:\C# projects\Lesson 4 + HW\Lesson4+HW\Lesson4+HW\obj\Debug\net5.0\Lesson4+HW.genruntimeconfig.cache
